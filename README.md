@@ -8,7 +8,7 @@ https://federicoboccaccio.wordpress.com/correggi-sfasamento-audio-nei-video/
 
 ## File nel repository
 Nella cartella *Video* ho inserito il video originale, probabilmente l' unico corto della Blender Foundation che non solo è stato doppiato in italiano, ma che ti viene anche voglia di vedere una seconda volta.<br>
-A causa del solito bug di GitHub, hodovuto spezzare il file.
+A causa del solito bug di GitHub, ho dovuto spezzare il file.
 
 Dentro alla cartella *Video* ho inseriro *Video di esempio* che contiene il video originale alterato e le impostazioni per ripristinarlo. Il risultato dovrebbe essere il video contenuto in *corretti*.
 
